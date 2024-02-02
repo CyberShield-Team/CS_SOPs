@@ -2,11 +2,11 @@
 
 ## Objective:
 
-    This Statement of Purpose (SOP) outlines the mission, objectives, and standard operating procedures for the AWS Operations Team at [Your Organization Name]. The purpose is to guide the team in managing, optimizing, and securing AWS resources effectively, ensuring the reliability and scalability of cloud infrastructure.
+This Statement of Purpose (SOP) outlines the mission, objectives, and standard operating procedures for the AWS Operations Team at [Your Organization Name]. The purpose is to guide the team in managing, optimizing, and securing AWS resources effectively, ensuring the reliability and scalability of cloud infrastructure.
 
 ## Scope:
 
-    This SOP applies to all members of the AWS Operations Team at [Your Organization Name]. It encompasses activities related to AWS account management, resource provisioning, security, networking, monitoring, disaster recovery, documentation, compliance, training, and continuous improvement.
+This SOP applies to all members of the AWS Operations Team at [Your Organization Name]. It encompasses activities related to AWS account management, resource provisioning, security, networking, monitoring, disaster recovery, documentation, compliance, training, and continuous improvement.
 
 ## Mission and Objectives:
 
