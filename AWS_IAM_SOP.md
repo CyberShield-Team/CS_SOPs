@@ -69,7 +69,7 @@ The purpose of this SOP is to define the process for creating, managing, and sec
     5.1 Purpose:
         To monitor IAM user activities and perform regular audits.
 
-5.2 Procedure:
+    5.2 Procedure:
         Set up CloudWatch Alarms for critical events.
         Enable AWS CloudTrail for logging and auditing.
         Review logs and monitor IAM user activities.
