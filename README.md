@@ -8,5 +8,5 @@ The Standard Operating Procedures (SOPs) provided offer detailed guidelines for 
 - [Threat Detection SOP](THREAT_detection.md)
 - [Mitigation SOP](Mitigation_SOP.md)
 
-## Reviewed and Updated on:
+### Reviewed and Updated on:
 - Feb 5, 2024 by Israel Quirola - Compliance Department, Cyber Shield.
