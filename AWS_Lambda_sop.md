@@ -9,11 +9,10 @@ This SOP outlines the mission, objectives, and standard operating procedures for
 This SOP is applicable to all teams and individuals responsible for the development, deployment, and maintenance of Lambda functions within Cyber Shield. It encompasses activities related to security monitoring, incident response, and automation.
 
 ## Mission and Objectives:
-
-    - Mission:
+1.  Mission:
+        
         To ensure the security of AWS Lambda functions by implementing effective monitoring, timely detection of security incidents, and automated responses to mitigate risks.
-
-    - Objectives:
+2. Objectives:
 
         - Establish comprehensive security monitoring for Lambda functions.
         - Detect and respond promptly to security incidents.
