@@ -13,6 +13,8 @@ The purpose of this SOP is to define the process for creating, managing, and sec
 
 ## Review and Update
 1. IAM User Creation:
+
+
     1.1 Purpose:
         To establish a consistent process for creating new IAM users.
 
@@ -27,6 +29,8 @@ The purpose of this SOP is to define the process for creating, managing, and sec
         Review the user's configuration.
         Click "Create user."
 2. IAM User Permissions:
+
+
     2.1 Purpose:
         To ensure IAM users have the appropriate permissions based on their roles and responsibilities.
 
@@ -37,6 +41,8 @@ The purpose of this SOP is to define the process for creating, managing, and sec
         Avoid using long-term access keys whenever possible.
         Use IAM roles for EC2 instances, Lambda functions, and other services.
 3. IAM User Security:
+
+
     3.1 Purpose:
         To enhance the security of IAM users and AWS resources.
 
@@ -47,6 +53,8 @@ The purpose of this SOP is to define the process for creating, managing, and sec
         Periodically review and update security settings.
         Educate users on security best practices.
 4. IAM User Deactivation and Removal:
+
+
     4.1 Purpose:
         To deactivate or remove IAM users who no longer require access.
 
