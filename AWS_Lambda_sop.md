@@ -57,6 +57,6 @@ Leverage AWS Security Hub, AWS Config, and other relevant services for additiona
 Integrate Lambda functions with AWS CloudTrail for auditing and tracking API calls.
 Review and Approval:
 
-This SOP is subject to periodic review and requires approval from [Name or Position] to ensure alignment with organizational security policies, industry standards, and best practices.
+This SOP is subject to periodic review and requires approval from the Cyber Shield Team to ensure alignment with organizational security policies, industry standards, and best practices.
 
 End of AWS Lambda Security Alerts and Automations SOP
