@@ -82,4 +82,3 @@ Threat detection is essential for identifying and mitigating security risks befo
 9. Review and Update:
 - Regularly review and update this SOP to incorporate changes in threat detection technologies, tools, and best practices.
 - Conduct periodic training sessions for employees involved in threat detection to ensure adherence to the SOP.
-
