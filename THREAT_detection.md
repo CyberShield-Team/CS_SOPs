@@ -14,6 +14,7 @@ The purpose of this SOP is to establish a standardized process for proactively i
 9. Review and Update
 ## 
 1. Introduction:
+
 Threat detection is essential for identifying and mitigating security risks before they cause significant harm to the organization's assets and operations. This SOP outlines procedures for proactive threat detection.
 
 2. Threat Intelligence Sources:
