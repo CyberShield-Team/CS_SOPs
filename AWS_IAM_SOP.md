@@ -64,28 +64,35 @@ The purpose of this SOP is to define the process for creating, managing, and sec
         Document the reason for deactivation or removal.
         Communicate changes to relevant stakeholders.
 5. Monitoring and Auditing:
-5.1 Purpose:
-To monitor IAM user activities and perform regular audits.
+
+
+    5.1 Purpose:
+        To monitor IAM user activities and perform regular audits.
 
 5.2 Procedure:
-Set up CloudWatch Alarms for critical events.
-Enable AWS CloudTrail for logging and auditing.
-Review logs and monitor IAM user activities.
-Conduct regular audits to ensure compliance.
+        Set up CloudWatch Alarms for critical events.
+        Enable AWS CloudTrail for logging and auditing.
+        Review logs and monitor IAM user activities.
+        Conduct regular audits to ensure compliance.
 6. Documentation:
-6.1 Purpose:
-To maintain comprehensive documentation for IAM user management.
 
-6.2 Procedure:
-Document IAM user creation and permissions.
-Keep records of IAM user security configurations.
-Maintain an up-to-date list of active IAM users.
-Document changes and reasons for modifications.
+
+    6.1 Purpose:
+        To maintain comprehensive documentation for IAM user management.
+
+    6.2 Procedure:
+        Document IAM user creation and permissions.
+        Keep records of IAM user security configurations.
+        Maintain an up-to-date list of active IAM users.
+        Document changes and reasons for modifications.
 7. Review and Update:
-7.1 Purpose:
-To ensure the SOP remains effective and up-to-date.
 
-7.2 Procedure:
-Conduct periodic reviews of IAM user management processes.
-Update the SOP based on changes in AWS services or organizational policies.
-Communicate updates to the relevant Cyber Shield team members.
+
+    7.1 Purpose:
+        To ensure the SOP remains effective and up-to-date.
+
+    7.2 Procedure:
+        Conduct periodic reviews of IAM user management processes.
+        Update the SOP based on changes in AWS services or organizational policies.
+        Communicate updates to the relevant Cyber Shield team members.
+
