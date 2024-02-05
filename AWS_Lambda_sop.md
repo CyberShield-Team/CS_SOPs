@@ -10,15 +10,14 @@ This SOP is applicable to all teams and individuals responsible for the developm
 
 ## Mission and Objectives:
 1.  Mission:
-        
-        To ensure the security of AWS Lambda functions by implementing effective monitoring, timely detection of security incidents, and automated responses to mitigate risks.
+- To ensure the security of AWS Lambda functions by implementing effective monitoring, timely detection of security incidents, and automated responses to mitigate risks.
 2. Objectives:
+- Establish comprehensive security monitoring for Lambda functions. 
+- Detect and respond promptly to security incidents.
+- Implement automated responses to common security threats.
+- Continuously improve security alerting and automation processes.
+- Foster a security-aware culture within Lambda development and operations teams.
 
-        - Establish comprehensive security monitoring for Lambda functions.
-        - Detect and respond promptly to security incidents.
-        - Implement automated responses to common security threats.
-        - Continuously improve security alerting and automation processes.
-        - Foster a security-aware culture within Lambda development and operations teams.
 ## Roles and Responsibilities:
 
 1. Security Monitoring:
