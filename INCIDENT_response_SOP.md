@@ -11,6 +11,7 @@
 6. Documentation
 7. Review and Update
 
+
 1. Introduction:
 
 Security incidents can pose significant risks to our organization's operations, data, and reputation. Prompt and accurate reporting of security incidents is essential for timely response and mitigation.
